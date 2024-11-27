@@ -1,0 +1,5 @@
+D:/learning/cpp_skillbox/cpp-skillbox-ls-25.4.2/out/build/compSimulation/CMakeFiles/edit_cache.dir
+D:/learning/cpp_skillbox/cpp-skillbox-ls-25.4.2/out/build/compSimulation/CMakeFiles/rebuild_cache.dir
+D:/learning/cpp_skillbox/cpp-skillbox-ls-25.4.2/out/build/compSimulation/src/CMakeFiles/compSimulation.dir
+D:/learning/cpp_skillbox/cpp-skillbox-ls-25.4.2/out/build/compSimulation/src/CMakeFiles/edit_cache.dir
+D:/learning/cpp_skillbox/cpp-skillbox-ls-25.4.2/out/build/compSimulation/src/CMakeFiles/rebuild_cache.dir
